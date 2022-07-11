@@ -1,13 +1,13 @@
 # Fabiano Júnior
 Olá! tenho 22 anos e atualmente estou cursando o 8° semestre de ciências da computação, em busca de sempre aprender algo novo.
 
-<div> 
+<div > 
   <a href="https://www.linkedin.com/in/fabianojunior139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fabianojunior139@gmail.com"><img src="https://img.shields.io/badge/-fabianojunior139@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/fabianojuniordg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-##
+<br>
 
 <div align="center">
   <a href="https://github.com/fabianojunior1">
