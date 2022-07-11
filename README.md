@@ -9,7 +9,7 @@ Olá! tenho 22 anos e atualmente estou cursando o 8° semestre de ciências da c
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/fabianojunior1">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianojunior1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianojunior1&layout=compact&langs_count=7&theme=dark"/>
