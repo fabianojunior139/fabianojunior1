@@ -23,3 +23,11 @@ Olá! tenho 22 anos e atualmente estou cursando o 8° semestre de ciências da c
   <img align="center" alt="Fabiano-GIT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Fabiano-NODE" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div> 
+
+<a href="https://www.linkedin.com/in/fabianojunior139/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabiano%20Junior-blue?style=flat-square&logo=linkedin">
+ </a>
+
+<a href="mailto:fabianojunior139@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-fabianojunior139@gmail.com-blue?style=flat-square&logo=gmail">
+</a>
