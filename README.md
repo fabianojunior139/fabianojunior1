@@ -1,5 +1,5 @@
 # Bem-vindo, Sou o Fabiano! 👋
-Olá! Atualmente estou me especilizando em react com typescript e node.js, sempre buscando aprender algo novo!
+Olá! Atualmente estou me especilizando em react e node.js utilizando o typescript, sempre buscando aprender algo novo!
 
 ```ts
 interface IDev {
@@ -16,8 +16,8 @@ const sobreMim: IDev = {
 ```
 ## Projetos Atuais
 <ul>
-<li>Desenvolvimento da versão 2.0 da plataforma do <a href="https://www.gov.br/participamaisbrasil/pagina-inicial">Participa + Brasil</a></li>
-<li>Desenvolvimento do meu TCC (Aplicação completa)</li>
+<li>Desenvolvimento da versão 2.0 da plataforma do <a href="https://www.gov.br/participamaisbrasil/pagina-inicial">Participa + Brasil</a>.</li>
+<li>Desenvolvimento do meu TCC (Aplicação completa).</li>
 </ul>
 
 ## Tecnologias
