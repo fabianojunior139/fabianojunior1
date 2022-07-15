@@ -1,5 +1,5 @@
 # Bem-vindo, Sou o Fabiano! 👋
-Olá! Atualmente estou me especilizando em react e node.js utilizando o typescript, sempre buscando aprender algo novo!
+Olá! Atualmente estou me especilizando em react e node.js, utilizando o typescript. Sempre buscando aprender algo novo!
 
 ```ts
 interface IDev {
