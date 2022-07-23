@@ -1,4 +1,4 @@
-# Bem-vindo! 
+# Bem-vindo! 👋
 Olá, me chamo Fabiano Júnior! Atualmente estou me especilizando em react e node.js, utilizando typescript. Sempre buscando aprender algo novo!
 
 ```ts
