@@ -16,7 +16,7 @@ const sobreMim: IDev = {
 ```
 ## Projetos Atuais
 <ul>
-<li>Desenvolvimento da versão 2.0 da plataforma do <a href="https://www.gov.br/participamaisbrasil/pagina-inicial">Participa + Brasil</a>.</li>
+<li>Desenvolvimento da versão 2.0 da plataforma do <a href="https://www.gov.br/participamaisbrasil/pagina-inicial">Participa + Brasil</a>;</li>
 <li>Desenvolvimento do meu TCC (Aplicação completa).</li>
 </ul>
 
