@@ -12,7 +12,7 @@ const sobreMim: IDev = {
   formacao: 'Cursando o 8° semestre de Ciências da Computação',
   areaAtuacao: 'Desenvolvimento Web',
   empresa: 'Presidência da República',
-};
+}
 ```
 ## ⚙ Projetos Atuais
 <ul>
