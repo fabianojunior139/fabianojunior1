@@ -14,13 +14,13 @@ const sobreMim: IDev = {
   empresa: 'Presidência da República',
 };
 ```
-## Projetos Atuais
+## ⚙ Projetos Atuais
 <ul>
 <li>Desenvolvimento da versão 2.0 da plataforma do <a href="https://www.gov.br/participamaisbrasil/pagina-inicial">Participa + Brasil</a>;</li>
 <li>Desenvolvimento do meu TCC (Aplicação completa).</li>
 </ul>
 
-## Tecnologias
+## 🚀 Tecnologias
 <div align="center"> 
   <img align="center" alt="Fabiano-GIT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Fabiano-HTML" height="30" width="40" src="https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667">
