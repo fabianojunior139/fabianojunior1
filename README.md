@@ -38,7 +38,7 @@ const sobreMim: IDev = {
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianojunior1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Contato
+## ✉ Contato
   
 <div> 
   <a href="https://www.linkedin.com/in/fabianojunior139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
