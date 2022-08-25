@@ -34,7 +34,7 @@ const sobreMim: IDev = {
 <br>
 <div>
   <a href="https://github.com/fabianojunior1">
-  <img width="48%" height="180rem" src="https://github-readme-stats.vercel.app/api?username=fabianojunior1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180rem"src="https://github-readme-stats.vercel.app/api?username=fabianojunior1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianojunior1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
