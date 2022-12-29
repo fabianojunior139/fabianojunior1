@@ -5,20 +5,13 @@ Olá! Me chamo Fabiano Júnior, atualmente estou me especilizando em react e nod
 interface IDev {
   formacao: string;
   areaAtuacao: string;
-  empresa: string;
 }
 
 const sobreMim: IDev = {
-  formacao: 'Cursando o 8° semestre de Ciências da Computação',
-  areaAtuacao: 'Desenvolvimento Web',
-  empresa: 'Presidência da República',
+  formacao: 'Formado em Ciências da Computação',
+  areaAtuacao: 'Desenvolvimento Web'
 }
 ```
-## ⚙ Projetos Atuais
-<ul>
-<li>Sou parte da equipe de desenvolvimento do <a href="https://www.gov.br/participamaisbrasil/pagina-inicial">Participa + Brasil</a>;</li>
-<li>Desenvolvimento do meu TCC (Aplicação completa).</li>
-</ul>
 
 ## 🚀 Tecnologias
 <div align="center"> 
