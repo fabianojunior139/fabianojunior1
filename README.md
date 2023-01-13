@@ -9,7 +9,7 @@ interface IDev {
 
 const sobreMim: IDev = {
   formacao: 'Formado em Ciências da Computação',
-  areaAtuacao: 'Desenvolvimento Web'
+  areaAtuacao: 'Desenvolvimento Web Full Stack'
 }
 ```
 
@@ -24,8 +24,6 @@ const sobreMim: IDev = {
   <img align="center" alt="Fabiano-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Fabiano-GIT" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div> 
-<br>
-
 
 ## ✉ Contato
   
