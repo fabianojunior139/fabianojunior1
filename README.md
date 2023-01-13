@@ -25,11 +25,7 @@ const sobreMim: IDev = {
   <img align="center" alt="Fabiano-GIT" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div> 
 <br>
-<div>
-  <a href="https://github.com/fabianojunior139">
-  <img width="48%" height="180rem"src="https://github-readme-stats.vercel.app/api?username=fabianojunior139&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianojunior139&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 ## ✉ Contato
   
