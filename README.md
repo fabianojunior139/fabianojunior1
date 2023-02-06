@@ -1,5 +1,5 @@
 # Bem-vindo! 👋
-Olá! Me chamo Fabiano Júnior, atualmente estou me especilizando em react e node.js, utilizando typescript. Sempre buscando aprender algo novo!
+Olá! Me chamo Fabiano Júnior, atualmente estou estudando Java e suas tecnologias. Sempre buscando aprender algo novo!
 
 ```ts
 interface IDev {
