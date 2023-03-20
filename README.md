@@ -3,12 +3,17 @@ Olá! Me chamo Fabiano Júnior, atualmente estou estudando Java e suas tecnologi
 
 ```ts
 interface IDev {
-  formacao: string;
+  nome: string;
+  formacoes: string[];
   areaAtuacao: string;
 }
 
 const sobreMim: IDev = {
-  formacao: 'Formado em Ciências da Computação',
+  nome: 'Fabiano Duarte Gomes Junior',
+  formacoes: [
+    'Graduado em Ciências da Computação',
+    'Graduando em Análise e Desenvolvimento de Sistemas',
+  ],
   areaAtuacao: 'Desenvolvimento Web Full Stack'
 }
 ```
