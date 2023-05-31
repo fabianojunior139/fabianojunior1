@@ -11,7 +11,7 @@ interface IDev {
 const sobreMim: IDev = {
   nome: 'Fabiano Duarte Gomes Junior',
   formacoes: [
-    'Graduado em Ciências da Computação',
+    'Graduado em Ciência da Computação',
     'Graduando em Análise e Desenvolvimento de Sistemas',
   ],
   areaAtuacao: 'Desenvolvimento Web Full Stack'
