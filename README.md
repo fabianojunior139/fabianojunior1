@@ -20,9 +20,12 @@ const sobreMim: IDev = {
 
 ## 🚀 Tecnologias
 <div align="center"> 
+  <img align="center" alt="Fabiano-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Fabiano-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Fabiano-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Fabiano-HTML" height="50" width="50" src="https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667">
   <img align="center" alt="Fabiano-CSS" height="50" width="50" src="https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667">
-  <img align="center" alt="Fabiano-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  
   <img align="center" alt="Fabiano-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabiano-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fabiano-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
