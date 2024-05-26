@@ -6,6 +6,7 @@ interface IDev {
   nome: string;
   formacoes: string[];
   areaAtuacao: string;
+  empresa: string;
 }
 
 const sobreMim: IDev = {
@@ -14,7 +15,8 @@ const sobreMim: IDev = {
     'Graduado em Ciência da Computação',
     'Graduando em Análise e Desenvolvimento de Sistemas',
   ],
-  areaAtuacao: 'Desenvolvimento Web Full Stack'
+  areaAtuacao: 'Desenvolvimento Web Full Stack',
+  empresa: 'Atos Brasil'
 }
 ```
 
